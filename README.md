@@ -37,7 +37,7 @@ Fow each image inside the `.bootstrap-carousel` provide:
 
 ## Options
 
-The options can be passed through plugin initialization or data attributes:
+The options can be passed through JavaScript plugin initialization or data attributes:
 
 | Attribute | Type | Default | Description |
 | --- | --- | --- | --- |
@@ -58,10 +58,3 @@ The options can be passed through plugin initialization or data attributes:
 
 - `.bCarousel('load')`: Reload the carousel.
 - `.bCarousel('addSlide', 'imgSrc', 'imgTitle', 'imgContent')`: Add a new slide to the carousel. `imgSrc` correspond to the image source; `imgTitle` is the caption title; and `imgContent` is the caption content.
-
-test
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
