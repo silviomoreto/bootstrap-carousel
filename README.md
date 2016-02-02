@@ -8,7 +8,7 @@ Bootstrap-carousel is a wrapper of the Carousel plugin from Bootstrap. The plugi
 Plugin developed in the book [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example)
 Copyright 2016 PACKT Publishing.
 
-Acquire the book and learn how to create this plugin from scratch and much more __Bootstrap__ by examples:
+Acquire the book and learn how to create this plugin from scratch and much more __Bootstrap__ examples:
 
  - Create a __Landing Page__
  - Building a __Web Application__ just like Twitter
