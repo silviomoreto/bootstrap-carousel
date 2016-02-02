@@ -44,7 +44,7 @@ For each image inside the `.bootstrap-carousel` provide:
 
 The result is a Carousel, just like the one of Bootstrap:
 
-![](http://www.formget.com/wp-content/uploads/2015/07/twitter-bootstrap-carousel.png)
+![](https://raw.githubusercontent.com/silviomoreto/bootstrap-carousel/master/example_screenshot.png?token=ACQPD5j9Lvk7kEoePlqQ7auM-XqkQMKdks5WuW7NwA%3D%3D)
 
 __OBS__: Just like for the Bootstrap original Carousel, you must provide an `id` for the outmost element, in this example above, we used `#carousel-notification`.
 
