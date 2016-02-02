@@ -8,7 +8,14 @@ Bootstrap-carousel is a wrapper of the Carousel plugin from Bootstrap. The plugi
 Plugin developed in the book [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example)
 Copyright 2016 PACKT Publishing.
 
-Licensed under MIT
+Acquire the book and learn how to create this plugin from scratch and much more __Bootstrap__ by examples:
+
+ - Create a __Landing Page__
+ - Building a __Web Application__ just like Twitter
+ - Full __Dashboard__
+ - Hands-on the __Bootstrap 4!__
+
+See more about the Book at [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example) oficial website or at [Amazon](http://www.amazon.com/Bootstrap-Example-Silvio-Moreto-Pereira/dp/1785288873). Thanks for supporting us! :smile:
 
 ## Usage
 
@@ -18,7 +25,7 @@ Load the plugin:
 
 Create this HTML:
 
-    <div id="carousel-notification" class="bootstrap-carousel" data-indicators="true" data-controls="true">
+    <div id="carousel-notification" class="bootstrap-carousel">
         <img src="imgs/doge.jpg" data-title="doge" data-content="Hey there!">
         <img src="imgs/laika.jpg" data-title="laika" data-content="Hey ...!">
         <img src="imgs/cat.jpg" data-title="cat">
@@ -30,10 +37,16 @@ Start the plugin via JavaScript:
 
 Or if you add the class `.bootstrap-carousel` to the outmost element the plugin will automatically load.
 
-Fow each image inside the `.bootstrap-carousel` provide:
+For each image inside the `.bootstrap-carousel` provide:
 
  - A `data-title` for the caption title
  - A `data-content` for the caption content
+
+The result is a Carousel, just like the one of Bootstrap:
+
+![](http://www.formget.com/wp-content/uploads/2015/07/twitter-bootstrap-carousel.png)
+
+__OBS__: Just like for the Bootstrap original Carousel, you must provide an `id` for the outmost element, in this example above, we used `#carousel-notification`.
 
 ## Options
 
