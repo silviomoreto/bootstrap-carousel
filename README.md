@@ -38,20 +38,20 @@ Fow each image inside the `.bootstrap-carousel` provide:
 ## Options
 
 The options can be passed through plugin initialization or data attributes:
-|Attribute|Type|Default|Description|
-|---|---|---|---|
-|indicators|boolean|true|Display the bullet indicators|
-|controls|boolean|true|Display the navigation controls|
-|defaultTitle|string|`''`|Default caption title for a slide|
-|defaultContent|string|`''`|Default caption content for a slide|
-|nextIcon|string|`'glyphicon glyphicon-chevron-right'`|Default next icon|
-|previousIcon|string|`'glyphicon glyphicon-chevron-left'`|Default previous icon|
-|nextText|string|`'Next'`|Default next text|
-|previousText|string|`'Previous'`|Default previous text|
-|interval|integer|`5000`|Interval to change slide|
-|pause|string|`'hover'`|Action for pause slide show|
-|wrap|boolean|true|Whether cycle or not the carousel|
-|keyboard|boolean|true|Whether the carousel react to keyboard|
+| Attribute | Type | Default | Description |
+| --- | --- | --- | --- |
+| indicators | boolean | true | Display the bullet indicators |
+| controls | boolean | true | Display the navigation controls |
+| defaultTitle | string | `''` | Default caption title for a slide |
+| defaultContent | string | `''` | Default caption content for a slide |
+| nextIcon | string | `'glyphicon glyphicon-chevron-right'` | Default next icon |
+| previousIcon | string | `'glyphicon glyphicon-chevron-left'` | Default previous icon |
+| nextText | string | `'Next'` | Default next text |
+| previousText | string | `'Previous'` | Default previous text |
+| interval | integer | `5000` | Interval to change slide |
+| pause | string | `'hover'` | Action for pause slide show |
+| wrap | boolean | true | Whether cycle or not the carousel |
+| keyboard | boolean | true | Whether the carousel react to keyboard |
 
 ## Methods
 
