@@ -42,6 +42,10 @@ For each image inside the `.bootstrap-carousel` provide:
  - A `data-title` for the caption title
  - A `data-content` for the caption content
 
+The result is a Carousel, just like the one of Bootstrap:
+
+![](http://www.formget.com/wp-content/uploads/2015/07/twitter-bootstrap-carousel.png)
+
 __OBS__: Just like for the Bootstrap original Carousel, you must provide an `id` for the outmost element, in this example above, we used `#carousel-notification`.
 
 ## Options
