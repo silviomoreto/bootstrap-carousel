@@ -37,7 +37,7 @@ Start the plugin via JavaScript:
 
 Or if you add the class `.bootstrap-carousel` to the outmost element the plugin will automatically load.
 
-Fow each image inside the `.bootstrap-carousel` provide:
+For each image inside the `.bootstrap-carousel` provide:
 
  - A `data-title` for the caption title
  - A `data-content` for the caption content
