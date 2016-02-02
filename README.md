@@ -15,6 +15,8 @@ Acquire the book and learn how to create this plugin from scratch and much more 
  - Full __Dashboard__
  - Hands-on the __Bootstrap 4!__
 
+See more about the Book at [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example) oficial website or at [Amazon](http://www.amazon.com/Bootstrap-Example-Silvio-Moreto-Pereira/dp/1785288873). Thanks for supporting us! :smile:
+
 ## Usage
 
 Load the plugin:
