@@ -17,16 +17,11 @@ Acquire the book and learn how to create this plugin from scratch and much more 
 
 See more about the Book at [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example) oficial website or at [Amazon](http://www.amazon.com/Bootstrap-Example-Silvio-Moreto-Pereira/dp/1785288873). 
 
-You can also support the project by donating
+You can also support the project by donating 
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="FSC9BZ4WTN57Y">
-<input type="image" src="http://hoopsforthedream.publishpath.com/websites/hoopsforthedream/templates/splash/images/paypal.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
-</form>
+<span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FSC9BZ4WTN57Y" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-blue.svg" alt="PayPal donate button" /></a></span>
 
-Thanks for supporting! :smile:
+Thanks! :smile:
 
 ## Usage
 
