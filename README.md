@@ -1,4 +1,4 @@
-bootstrap-carousel
+bootstrap-carousel <span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FSC9BZ4WTN57Y" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-blue.svg" alt="PayPal donate button" /></a></span>
 ==================
 
 Bootstrap-carousel is a wrapper of the Carousel plugin from Bootstrap. The plugin main object is to reduce the typing from creating a new Carousel while automating some tasks.
@@ -17,11 +17,7 @@ Acquire the book and learn how to create this plugin from scratch and much more 
 
 See more about the Book at [Bootstrap by Example](https://www.packtpub.com/web-development/bootstrap-example) oficial website or at [Amazon](http://www.amazon.com/Bootstrap-Example-Silvio-Moreto-Pereira/dp/1785288873). 
 
-You can also support the project by donating 
-
-<span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FSC9BZ4WTN57Y" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-blue.svg" alt="PayPal donate button" /></a></span>
-
-Thanks! :smile:
+You can also make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FSC9BZ4WTN57Y" title="Donate to this project using Paypal">donation</a>. Thanks for supporting us! :smile:
 
 ## Usage
 
