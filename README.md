@@ -22,21 +22,21 @@ You can also make a <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick
 ## Usage
 
 Load the plugin:
-
+```html
     <script src="js/bootstrap-carousel.js"></script>
-
+```
 Create this HTML:
-
+```html
     <div id="carousel-notification" class="bootstrap-carousel">
         <img src="imgs/doge.jpg" data-title="doge" data-content="Hey there!">
         <img src="imgs/laika.jpg" data-title="laika" data-content="Hey ...!">
         <img src="imgs/cat.jpg" data-title="cat">
     </div>
-
+```
 Start the plugin via JavaScript:
-
+```js
     $('#carousel-notification').bCarousel();
-
+```
 Or if you add the class `.bootstrap-carousel` to the outmost element the plugin will automatically load.
 
 For each image inside the `.bootstrap-carousel` provide:
